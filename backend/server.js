@@ -10,4 +10,3 @@ app.get('/api/goals',(req,res)=>{
 })
 
 app.listen(port,()=> console.log(`Server started on port ${port}`))
-
